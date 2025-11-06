@@ -40,7 +40,8 @@ Me gusta aprender constantemente, experimentar con nuevas herramientas y trabaja
 
 ## 📫 Contacto
 - ✉️ **Correo:** lmsanchez@sudamericano.edu.ec  
-- 🧑‍💻 **GitHub:** [https://github.com/tuusuario](https://github.com/tuusuario)
+- 🧑‍💻 **GitHub:** [https://github.com/leninsanchez981](https://github.com/leninsanchez981)
+
 
 ---
 
